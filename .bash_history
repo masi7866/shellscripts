@@ -1,130 +1,3 @@
-shutdown -P +5 minutes
-shutdown -r+5minutes 
-shutdown -r+5 minutes 
-shutdown -r +5 minutes
-shutdown -r now
-wall "The system has been hacked, it need to be quarintined"
-wall "The system will be rebooted in  minutes"
-exit
-sudo root
-sudo ~ root
-su ~ root
-exit
-su
-dir
-cd Desktop
-pwd
-cd..
-..
-.
-cd ..
-cd/etc/sysconfig
-sudo root
-su
-cd ~root
-cd classfiles
-ls -F
-cat proposal1
-cat
-more
-more letter
-cd classfiles
-ls -l
-alias
-stat
-stat bigfile
-stat classfile
-pwd
-cd/etc/sysconfig
-cd etc
-cd /etc
-pwd
-cd ../..
-pwd
-cd..
-cd ..
-cd root
-cd ../etc/sysconfig
-pwd
-cd ~woot
-cd ~root
-pwd
-cd
-ls -l
-ls
-dir
-pwd
-cd/
-cdpwd
-cd pwd
-cd ..
-pwd
-ls
-cd usr
-ls
-cd ..
-ls
-cd root
-ls
-whoami
-git clone https://github.com/jasoneckert/classfiles.git
-ls
-cd classfiles
-ls
-vi letter
-file proposal1 proposal2
-let*
-file pro*
-ls -R Poems
-tree Poems
-ls -a
-more letter
-head -2 proposal1
-tail -6 letter
-who
-cd classfiles
-cat bigfile
-more bigfile
-od -x letter
-grep
-grep mother
-cd ..
-grep mother
-grep Mother
-clear
-cd classfiles
-grep Mother letter
-grep -c Mother lettr
-grep -c Mother letter
-vi small_town
-vi~/.vimrc
-vi ~/.vimrc
-vi letter
-clear
-vi ~/.vimrc
-vi letter
-vi ~/.vimrc
-ls
-cd masi.txt
-vi masi.txt
-vi ~/.vimrc
-ls
-vi newmasi.txt
-clear
-vi newmasi2.txt
-ls
-ls -a
-pwd
-cd home
-cd ..
-ls
-cd ..
-ls
-cd home
-cd root
-ls
-cd ..
-cd root
 ls
 pwd
 ls
@@ -998,3 +871,130 @@ whoami
 cd root
 clear
 cd ~root
+clear
+ls
+cd shellscripts
+ls
+git init
+locate myscripts
+git status
+git commit
+git add .
+git status
+git commit -m "My first commit"
+git config --global user.email "masi.nuzhat@easternstudent.ca"
+git config --global user.name "Masi"
+cd ..
+binclock
+vi filemaintain.sh
+git status
+git add hello.txt
+git add hello.txt.swp
+git  -commit -m "Added XFS checking to filemaintain.sh
+git  -commit -m "Added XFS checking to filemaintain.sh"
+filemaintain.sh
+ls
+sudo apt-get update
+apt-get update
+dnf install git
+execute git config --list
+git config --list
+git log
+cd ~masi.nuzhat@easternstudent.ca
+git status
+git config --list
+git reset --hard
+git show
+git show v1.0
+git config
+git --name-only
+git clone
+pwd
+ls
+cd classfiles
+ls
+cd ..
+ls 
+cd myscripts
+locate myscrips
+locate myscripts
+git init
+git status
+git add.
+git add .
+git commit -m "My first snapshot"
+cd ~woot
+ls
+cd ..
+ls
+cd ..
+cd woot
+cd root
+ls
+cat myscript
+cat myscripts
+cd ./myscript
+./myscript
+cd shellscripts
+ls
+cd ..
+who | grep myscripts
+who | grep bob
+git log
+git reset --hard 9269eb
+git log
+git config
+git init.
+git init
+git clone /home/masi/shellscripts/
+git clone /masi/shellscripts/
+ls
+git branch
+git push origin AddSIEM
+git push origin masi
+cd shellscripts
+git push origin masi
+git push origin masi.nuzhat@easternstudent.ca
+git checkout -b sample
+git branch
+vi scriptname
+git add .
+git commit -m "Description"
+git checkout master
+cat scriptname
+git merge sample
+git remote add origin https://github.com/jasoneckert/shellscripts.git
+git push -u origin master
+git remote add origin https://github.com/jasoneckert/shellscripts.git
+git push -u origin master
+ls -l
+chmod +777 shellscripts
+cd ..
+chmod +777 shellscripts
+ls -l
+git push -u origin master
+cd shellscripts
+git push -u origin master
+cd ~root
+clear
+vi EXE5.4.sg
+vi EXE5.4.sh
+ls
+cd root
+cd ..
+clear
+cd ~woot
+ls
+cd file2
+vi file.sh
+bash file.sh
+cd ~woot
+pwd
+boxes file2.txt
+ls
+boxes -d cat file.sh
+cd ..
+chsh
+
+/bin/ksh
+su woot
